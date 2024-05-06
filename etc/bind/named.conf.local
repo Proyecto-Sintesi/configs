@@ -1,0 +1,4 @@
+zone "virtualvista.com" {
+        type master;
+        file "/etc/bind/db.virtualvista.com";
+};
