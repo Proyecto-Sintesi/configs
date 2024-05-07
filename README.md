@@ -3,6 +3,7 @@ En aquest respositori estan emmagatzemades totes les configuracions dels serveis
 
 # Serveis
 ## [SSH](https://github.com/Proyecto-Sintesi/configs/tree/main/home/alex/.ssh)
+- #### [README](https://github.com/Proyecto-Sintesi/configs/blob/main/home/alex/.ssh/README.md)
 ## [VSFTPD](https://github.com/Proyecto-Sintesi/configs/tree/main/etc/vsftpd)
 ## [BIND](https://github.com/Proyecto-Sintesi/configs/tree/main/etc/bind)
 ## [NGINX](https://github.com/Proyecto-Sintesi/configs/tree/main/etc/nginx/sites-enabled)
