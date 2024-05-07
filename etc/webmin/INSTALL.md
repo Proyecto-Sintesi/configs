@@ -50,6 +50,7 @@ Nota: Si instaló y habilitó ufw durante el paso de requisitos previos, deberá
 sudo ufw allow 10000
 Per a major seguretat, és possible que desitgi configurar la seva firewall perquè permeti accés únicament a aquest port des d'uns certs intervals d'IP.
 ``
+
 D'aquesta forma tindriem descarregat el nostre Webmin.
 
 La instal·lació es pot llegir aqui [README.md](https://github.com/Proyecto-Sintesi/configs/edit/main/etc/webmin/README.md)
