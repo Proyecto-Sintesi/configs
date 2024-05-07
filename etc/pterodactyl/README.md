@@ -74,3 +74,6 @@ api:
 
 
 ![image](https://github.com/Proyecto-Sintesi/configs/assets/122394285/e237c539-11d5-4a13-9013-07ae5e32bdc9)
+
+
+La instal·lació es pot llegir aqui [INSTALL.md](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/pterodactyl/INSTALL.md)
