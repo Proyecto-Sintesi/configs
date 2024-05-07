@@ -51,3 +51,5 @@ MariaDB [panel]> SHOW TABLES;
 +-----------------------+
 35 rows in set (0,000 sec)
 ```
+
+La instal·lació es pot llegir aqui [INSTALL.md](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/mysql/INSTALL.md)
