@@ -21,5 +21,4 @@ El que posarem en aquesta apartat seràn els port que estem fent servint y que h
 [16] Apache                     ALLOW IN    Anywhere
 [17] Samba                      ALLOW IN    Anywhere
 ```
-
-Com és pot observar en la taula de les nostre reglas els principals ports que fem servir són el 80 i el 22 que són els ports de HTTP que és el que es fa servir cara al client i l'altre el SSH que és el que principalment hem fet servir per gestionar el nostre servidor.
+[SSH](): 
