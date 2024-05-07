@@ -3,4 +3,4 @@ Nginx és un famós programari de servidor web de codi obert. A la seva versió 
 
 Comparat amb altres servidors web, com Apache, Nginx destaca pel seu rendiment, estabilitat i baix consum de recursos. Apache és un dels principals rivals de Nginx i té una gran comunitat d’usuaris.
 
-La instal·lació es pot llegir aqui [INSTALL.md](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/pterodactyl/INSTALL.md)
+La instal·lació es pot llegir aqui [INSTALL.md](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/nginx/sites-enabled/INSTALL.md)
