@@ -91,5 +91,3 @@ Les configuracions de NetData i Webmin son molt similars, es poden trobar a [Net
 ### Mail
 ![image](https://github.com/Proyecto-Sintesi/configs/assets/122394285/f8dc76c6-5898-4f74-9019-4cbeccd57ef1)
 
-
-La instal·lació es pot llegir aqui [INSTALL.md](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/nginx/sites-enabled/INSTALL.md)
