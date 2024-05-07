@@ -25,4 +25,4 @@ El que posarem en aquesta apartat seràn els port que estem fent servint y que h
 - [HTTP](https://github.com/Proyecto-Sintesi/Web):El que fem servir per la web. **Port 80**
 - [HTTPS](https://github.com/Proyecto-Sintesi/Web): El mateix que el HTTP. **Port 443**
 - [VSFTPD](https://github.com/Proyecto-Sintesi/configs/tree/main/etc/vsftpd): El fem servir per un altre tipus de conexió diferent al servidor. **Port 20/21**
-- [DNS](https://github.com/Proyecto-Sintesi/configs/tree/main/etc/bind): FEm servir el nostre DNS. **Port Bind9**
+- [DNS](https://github.com/Proyecto-Sintesi/configs/tree/main/etc/bind): FEm servir el nostre DNS. **Port Bind9/53**
