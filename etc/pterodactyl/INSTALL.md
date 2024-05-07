@@ -59,4 +59,4 @@ sudo chmod -R 755 storage/* bootstrap/cache
 ```
 Un cop fet tot això passarà començant amb la instal·lació, primer de tot necesitamos configurar algunos aspectos centrales del Panel. Dins del Mysql.
 
-![image](https://github.com/Proyecto-Sintesi/configs/assets/165918288/b07d3eb1-81fe-4019-99c1-3bc9aae7420e)
+
