@@ -2,7 +2,7 @@
 El primer que tenim que fer per poder descarregar el Pterodactyl és afegir els repositoris mínims. La comanda següent és el que tenim que afegir desde root.
 
 
-```console
+```
 # Add "add-apt-repository" command
 
 apt -y install software-properties-common curl apt-transport-https ca-certificates gnupg
