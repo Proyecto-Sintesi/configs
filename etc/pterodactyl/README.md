@@ -19,4 +19,4 @@ Alguns dels principals jocs compatibles inclouen:
 Pterodactyl és completament de codi obert i, com a tal, està completament obert a usuaris i auditors independents per a navegar pel nostre base de codi i cerca de problemes de seguretat.
 
 
-**RECORDA** que si vols aprendre com instal·lar-ho et passis per el apartat de [INSTALL.md](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/pterodactyl/INSTALL.md)
+La instal·lació es pot llegir aqui [INSTALL.md](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/pterodactyl/INSTALL.md)
