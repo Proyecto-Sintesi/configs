@@ -17,3 +17,5 @@ Com es pot observar en el *Netdata* ens monstra els apartats com per exemple:
 - El ús de la RAM
 
 Aixo entre altres coses.
+
+La instal·lació es pot llegir aqui [INSTALL.md](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/netdata/INSTALL.md)
