@@ -9,3 +9,7 @@ Hem agafat aquest servei per expandir els connexions a l'hora de poder accedir a
 # Que modifiquem dins del arxiu?
 
 Dins de l'arxiu el que modifiquem és que el nostre servidor pugui acceptar o rebutjar depenen de la configuració. En el nostre cas el que hem fet ha sigut que només pot accedir al nostre servidor a través d'usuaris creats.
+
+# Demostració
+
+![image29](https://github.com/Proyecto-Sintesi/configs/assets/165918288/08fa7af9-a278-4aa4-9fcd-e7931f798357)
