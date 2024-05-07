@@ -18,7 +18,7 @@ apt-get install autoconf autoconf-archive autogen automake cmake gcc git libelf-
 Press ENTER to run it > 
 ```
 Prem Intro per a instal·lar totes les dependències en el teu sistema. Se't demanarà que construeixis el Netdata com es mostra a continuació:
-```console
+```
  --- Installing netdata... --- 
 [/tmp/netdata-kickstart-LnvxPHJfuV/netdata-v1.26.0-292-gfbb5d8e2]# ./netdata-installer.sh --auto-update 
   ^
@@ -59,7 +59,7 @@ Press ENTER to build and install netdata to your system >
 ```
 
 Pulsa Intro para instalar el Netdata. Una vez terminada la instalación, deberías obtener la siguiente salida:
-```console
+```
 Setting netdata.tarball.checksum to 'new_installation'
 
  --- We are done! --- 
