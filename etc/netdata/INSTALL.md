@@ -1,4 +1,4 @@
-# Instal·lació
+# NETDATA
 Per instal·lar Netdata utilitzarem la següent comanda
 ```console
 apt-get install curl -y
@@ -73,3 +73,7 @@ Setting netdata.tarball.checksum to 'new_installation'
 
  OK  
 ```
+
+## Demostració
+Demostració des de la web
+![image](https://github.com/Proyecto-Sintesi/configs/assets/122394285/d4f5139f-4284-4a9d-9df3-e60b4eef0b08)
