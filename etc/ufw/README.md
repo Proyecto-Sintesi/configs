@@ -26,3 +26,4 @@ El que posarem en aquesta apartat seràn els port que estem fent servint y que h
 - [VSFTPD](https://github.com/Proyecto-Sintesi/configs/tree/main/etc/vsftpd): El fem servir per un altre tipus de conexió diferent al servidor. **Port 20/21**
 - [DNS](https://github.com/Proyecto-Sintesi/configs/tree/main/etc/bind): Fem servir el nostre DNS. **Port Bind9/53**
 - [POSTFIX](https://github.com/Proyecto-Sintesi/configs/tree/main/etc/nginx/sites-enabled): El utilitzen per el nostre propi servidor de correu. **Port 587/465**
+- [SAMBA](https://github.com/Proyecto-Sintesi/configs/tree/main/etc/samba): El SAMBA del nostre servidor. **Port 445/137/138/139**
