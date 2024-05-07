@@ -18,6 +18,9 @@ Com es pot observar en el *Netdata* ens monstra els apartats com per exemple:
 
 ## Allotjament local
 De normal el panell de NetData s'allotja als seus servidors privats, en el nostre cas voliem utilitzar el subdomini `netdata.`. Per aconseguir això només hem de canviar el atribut `default port` de l'apartat `web` de l'arxiu de configuració.
+
+![image](https://github.com/Proyecto-Sintesi/configs/assets/122394285/61bad3b4-874c-4bd2-8f4d-4df65d4414f0)
+
 ```conf
 [web]
         ...
