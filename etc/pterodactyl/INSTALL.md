@@ -66,6 +66,9 @@ sudo cp .env.example .env
 
 sudo composer install --no-dev --optimize-autoloader
 ```
-![image](https://github.com/Proyecto-Sintesi/configs/assets/165918288/fe587170-6919-451a-a320-9e8b1cd3d57d)
+![image25](https://github.com/Proyecto-Sintesi/configs/assets/165918288/80557e08-7ab4-4855-a3ae-1f22b2001c10)
+
+
+
 
 
