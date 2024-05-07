@@ -1,8 +1,4 @@
 # BIND9
-# Instal·lació
-```console
-sudo apt install bind9
-```
 # Configuració
 ## named.conf.options
 `named.conf.options` ens serveix per configurar com actua el servei de BIND9
