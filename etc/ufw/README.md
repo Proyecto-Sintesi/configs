@@ -22,4 +22,4 @@ El que posarem en aquesta apartat seràn els port que estem fent servint y que h
 [17] Samba                      ALLOW IN    Anywhere
 ```
 - [SSH](https://github.com/Proyecto-Sintesi/configs/tree/main/home/alex/.ssh): El SSH per conectar-nos al servidor.
-- [HTTP]([https://github.com/Proyecto-Sintesi/configs/tree/main/home/alex/.ssh](https://github.com/Proyecto-Sintesi/Web)):El que fem servir per la web.
+- [HTTP](https://github.com/Proyecto-Sintesi/Web):El que fem servir per la web.
