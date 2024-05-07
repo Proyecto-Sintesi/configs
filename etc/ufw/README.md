@@ -21,4 +21,4 @@ El que posarem en aquesta apartat seràn els port que estem fent servint y que h
 [16] Apache                     ALLOW IN    Anywhere
 [17] Samba                      ALLOW IN    Anywhere
 ```
-[SSH](): 
+[SSH](https://github.com/Proyecto-Sintesi/configs/tree/main/home/alex/.ssh): 
