@@ -21,6 +21,6 @@ El que posarem en aquesta apartat seràn els port que estem fent servint y que h
 [16] Apache                     ALLOW IN    Anywhere
 [17] Samba                      ALLOW IN    Anywhere
 ```
-- [SSH](https://github.com/Proyecto-Sintesi/configs/tree/main/home/alex/.ssh): El SSH per conectar-nos al servidor. Port 22
-- [HTTP](https://github.com/Proyecto-Sintesi/Web):El que fem servir per la web. Port 80
-- [HTTPS](https://github.com/Proyecto-Sintesi/Web): El mateix que el HTTP. Port 443
+- [SSH](https://github.com/Proyecto-Sintesi/configs/tree/main/home/alex/.ssh): El SSH per conectar-nos al servidor. **Port 22**
+- [HTTP](https://github.com/Proyecto-Sintesi/Web):El que fem servir per la web. **Port 80**
+- [HTTPS](https://github.com/Proyecto-Sintesi/Web): El mateix que el HTTP. **Port 443**
