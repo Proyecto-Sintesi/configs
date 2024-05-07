@@ -7,14 +7,13 @@ Admetem una gran varietat de jocs mitjançant l'ús de contenidors Docker per a 
 
 Alguns dels principals jocs compatibles inclouen:
 
-- Minecraft, incluyendo Spigot, Sponge, Bungeecord, Waterfall i més
-- Óxido
-- Terrarios
-- Habla en equipo
-- Mascullar
+- Minecraft
+- Rust
+- Terraria
+- Teamspeak
 - Team Fortress 2
-- Counter Strike: Ofensiva global
-- Mod de Garry
-- ARK: Supervivencia evolucionada
+- Counter Strike: Global Offensive
+- Garry's Mod
+- ARK: Survival Evolved
 
 Pterodactyl és completament de codi obert i, com a tal, està completament obert a usuaris i auditors independents per a navegar pel nostre base de codi i cerca de problemes de seguretat.
