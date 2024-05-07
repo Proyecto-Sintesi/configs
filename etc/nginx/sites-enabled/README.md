@@ -9,4 +9,5 @@ sudo ufw allow 80
 sudo ufw allo 443
 ```
 
+
 La instal·lació es pot llegir aqui [INSTALL.md](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/nginx/sites-enabled/INSTALL.md)
