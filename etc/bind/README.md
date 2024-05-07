@@ -21,6 +21,7 @@ options {
 ```
 
 `named.conf.local` ens serveix per configurar cada zona (o FQDN) individualment
+`type` estableix el tipus de zona, en aquest cas es "master" o primaria, això significa que es la principal zona DNS, es a dir, que no es la còpia ni "mirror" d'una altra.
 ```bind
 zone "virtualvista.com" {
         type master;
