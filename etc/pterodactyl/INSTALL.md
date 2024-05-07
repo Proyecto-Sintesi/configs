@@ -74,7 +74,11 @@ sudo php artisan key:generate --force
 
 Un cop instal·lat configurarem el entorn. L'entorn central de Pterodactyl es configura fàcilment mitjançant alguns comandos CLI diferents integrats en l'aplicació. Aquest pas cobrirà la configuració de coses com a sessions, emmagatzematge en caixet, credencials de base de dades i enviament de correu electrònic.
 
-![image67](https://github.com/Proyecto-Sintesi/configs/assets/165918288/b4da9834-1e86-485b-8481-4560e0207cc0)
+![image88](https://github.com/Proyecto-Sintesi/configs/assets/165918288/94fe12c7-b91a-48f6-9047-a7892c87d82b)
+
+![image31](https://github.com/Proyecto-Sintesi/configs/assets/165918288/27c43b74-1e9d-4c2a-850c-f016a383ca07)
+
+![image5](https://github.com/Proyecto-Sintesi/configs/assets/165918288/1b3ed28d-f1a9-4e96-8e9f-31e43adfcf0d)
 
 
 
