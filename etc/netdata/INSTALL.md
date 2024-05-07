@@ -9,7 +9,7 @@ Utilitzem el script per instal·lar automaticament el Netdata
 bash <(curl -Ss https://my-netdata.io/kickstart.sh)
 ```
 Se't demanarà que instal·lis les dependències necessàries en el teu sistema, com es mostra a continuació:
-```console
+```
 NOTE: Running apt-get update and updating your APT caches ...
 apt-get update 
 apt-get install autoconf autoconf-archive autogen automake cmake gcc git libelf-dev libjson-c-dev libjudy-dev liblz4-dev libmnl-dev libssl-dev libtool libuv1-dev make pkg-config uuid-dev zlib1g-dev 
