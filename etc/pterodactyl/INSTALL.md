@@ -1,66 +1,52 @@
-# Instal·lació
-El primer que tenim que fer per poder descarregar el Pterodactyl és afegir els repositoris mínims. La comanda següent és el que tenim que afegir desde root.
+# Pterodactyl
+## Preparació
+Abans de començar la instal·lació haurem de fer uns preparatoris.
 
-
-```
-# Add "add-apt-repository" command
-
+Afegirem els repositoris necessitats per PHP i el instalarem.
+```console
 apt -y install software-properties-common curl apt-transport-https ca-certificates gnupg
-
-# Add additional repositories for PHP, Redis, and MariaDB
-
 LC_ALL=C.UTF-8 add-apt-repository -y ppa:ondrej/php
+```
 
-# Add Redis official APT repository
-
+Instal·larem Redis, redis es un servei de cache en memoria que accelera el processament de dades, utilitzat per [Pterodactyl](https://github.com/Proyecto-Sintesi/configs/tree/main/etc/pterodactyl)
+```console
 curl -fsSL https://packages.redis.io/gpg | sudo gpg --dearmor -o /usr/share/keyrings/redis-archive-keyring.gpg
 echo "deb [signed-by=/usr/share/keyrings/redis-archive-keyring.gpg] https://packages.redis.io/deb $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/redis.list
-
-# MariaDB repo setup script can be skipped on Ubuntu 22.04
-
+```
+Instal·larem MariaDB com a base de dades amb el script d'instal·lació
+```console
 curl -sS https://downloads.mariadb.com/MariaDB/mariadb_repo_setup | sudo bash
+```
 
-# Update repositories list
-
+Una vegada afegits tots els repositoris els actualitzarem i instal·larem ñes següents dependències.
+```
 apt update
-
-# Install Dependencies
 
 apt -y install php8.1 php8.1-{common,cli,gd,mysql,mbstring,bcmath,xml,fpm,curl,zip} mariadb-server nginx tar unzip git redis-server
 
+```
 
 Després el que faré serà instal·lar Composer. Composer és un administrador de dependències per a PHP que ens permet enviar tot el que necessita quant a codi per a operar el Panell.
-
-curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/local/bin --filename=composer
-
-```
-
-Continuarem creant la carpeta on viurà el panell i després moure'ns a ella carpeta recentment creada.
-
 ```console
-sudo mkdir-p /var/www/pterodactyl
+curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/local/bin --filename=composer
 ```
 
-Després passarem a descarregar dins d'aquesta carpeta l'arxiu
+Continuarem creant la carpeta on s'emmagatzemara el panell.
+```console
+sudo mkdir /var/www/pterodactyl
+```
 
+Descarregarem el panell i el descomprimirem
 ```console
 sudo curl -Lo panel.tar.gz http://github.com/pterodactyl/panel/releases/latest/download/panel.tar.gz
-```
-
-Un cop descarregat el descomprimirem
-
-```console
 sudo tar-xzvf panel.tar.gz
-```
-
-Per acabar donarem permís com mostra la següent comanda
-```console
 sudo chmod -R 755 storage/* bootstrap/cache
 ```
 Un cop fet tot això passarà començant amb la instal·lació, primer de tot necesitamos configurar algunos aspectos centrales del Panel. Dins del Mysql.
 
 Una cop fet això copiarem el nostre arxiu de configuració d'entorn predeterminat, instal·larem les dependències principals i, a continuació, generarem un arxiu Nova clau de xifratge d'aplicacions
 
+# Instal·lació
 ```console
 sudo cp .env.example .env
 
@@ -209,4 +195,3 @@ Per instal·lar eggs externs es pot utilitzar l’eina d’importació.
 
 En aquest cas m’he descarregat el egg de python i l’he importat per poder executar la nostra página web.
 
-La instal·lació es pot llegir aqui [README.md](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/pterodactyl/README.md)
