@@ -54,3 +54,6 @@ Added user alex.
 ```console
 sudo smbpasswd -e alex
 ```
+
+## Configuració
+Configurat a [README.md](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/samba/README.md)
