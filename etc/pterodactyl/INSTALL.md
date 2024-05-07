@@ -59,4 +59,12 @@ sudo chmod -R 755 storage/* bootstrap/cache
 ```
 Un cop fet tot això passarà començant amb la instal·lació, primer de tot necesitamos configurar algunos aspectos centrales del Panel. Dins del Mysql.
 
+Una cop fet això copiarem el nostre arxiu de configuració d'entorn predeterminat, instal·larem les dependències principals i, a continuació, generarem un arxiu Nova clau de xifratge d'aplicacions
+
+```console
+sudo cp .env.example .env
+
+sudo composer install --no-dev --optimize-autoloader
+```
+![Uploading image.png…]()
 
