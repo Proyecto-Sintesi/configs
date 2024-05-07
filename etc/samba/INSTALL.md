@@ -49,6 +49,7 @@ sudo smbpasswd -a alex
 New SMB password: test123
 Retype new SMB password: test123
 Added user alex.
+```
 
 ```console
 sudo smbpasswd -e alex
