@@ -18,7 +18,6 @@ En aquest respositori estan emmagatzemades totes les configuracions dels serveis
 - [🔧 INSTALL.md](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/samba/INSTALL.md) 
 ## [🔥 UFW](https://github.com/Proyecto-Sintesi/configs/tree/main/etc/ufw)
 - [🖋 README.md](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/ufw/README.md)
-- [🔧 INSTALL.md](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/ufw/INSTALL.md) 
 ## [⚙ WEBMIN](https://github.com/Proyecto-Sintesi/configs/tree/main/etc/webmin)
 - [🖋 README.md](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/webmin/README.md)
 ## [📊 NETDATA](https://github.com/Proyecto-Sintesi/configs/tree/main/etc/netdata)
