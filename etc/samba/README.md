@@ -30,3 +30,7 @@ Cada reurs te especificat un directori i un administrador, cada administrador po
         path = /var/lib/pterodactyl/volumes/94a28857-adea-49a1-b183-fa7046b0c04f
         admin users = alex
 ```
+
+## Demostració
+En la següent imatge es pot veure com está connectat els arxius del servidor de Minecraft amb un Samba.
+![image](https://github.com/Proyecto-Sintesi/configs/assets/122394285/e8da27e0-6aed-4430-b52c-bb2e948f39b2)
