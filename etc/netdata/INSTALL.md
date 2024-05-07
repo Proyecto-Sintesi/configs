@@ -77,3 +77,5 @@ Setting netdata.tarball.checksum to 'new_installation'
 ## Demostració
 Demostració des de la web
 ![image](https://github.com/Proyecto-Sintesi/configs/assets/122394285/d4f5139f-4284-4a9d-9df3-e60b4eef0b08)
+
+La instal·lació es pot llegir aqui [README.md](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/netdata/README.md)
