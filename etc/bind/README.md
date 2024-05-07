@@ -74,3 +74,10 @@ Els següents registres son subdominis per poder configurar el [reverse proxy d'
 `autoconfig      IN      CNAME   mail.virtualvista.com.`
 
 `@       IN      MX      10      mail.virtualvista.com.` Els registres `MX` son utilitzats per saber com enviar/intercambiar/rebre un correu
+
+## Demostració
+### Comprovació dels registres DNS
+![image](https://github.com/Proyecto-Sintesi/configs/assets/122394285/f1f6e869-c290-4ef3-a860-270ee082ce81)
+
+### Comprovació des de la web
+![image](https://github.com/Proyecto-Sintesi/configs/assets/122394285/5e8ac630-61d7-4077-a535-baca2c3becf0)
