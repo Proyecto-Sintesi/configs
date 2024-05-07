@@ -6,4 +6,5 @@ Netdata és una eina per a visualitzar i monitorar mètriques en temps real, opt
 
 Per el monitoratge de recursos hem escollit el software de Netdata ja que es una eïna que permet monitoritza els recursos en viu i molt versatil per poder implementar diferentes aplicacions.
 
+
 ![image](https://github.com/Proyecto-Sintesi/configs/assets/165918288/47935912-e01a-4577-9ee7-e7101ef65009)
