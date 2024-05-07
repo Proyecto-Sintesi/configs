@@ -8,3 +8,12 @@ Per el monitoratge de recursos hem escollit el software de Netdata ja que es una
 
 
 ![image](https://github.com/Proyecto-Sintesi/configs/assets/165918288/47935912-e01a-4577-9ee7-e7101ef65009)
+
+
+Com es pot observar en el *Netdata* ens monstra els apartats com per exemple:
+
+- La velocitat d'escriptura del disc
+- La velocitat de lectura
+- El ús de la RAM
+
+Aixo entre altres coses.
