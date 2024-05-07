@@ -46,7 +46,7 @@ root password, or as any user who can use sudo.
 ```
 
 ``
-Nota: Si instaló y habilitó ufw durante el paso de requisitos previos, deberá ejecutar el siguiente comando para permitir a Webmin a través del firewall:
+Nota: Si va instal·lar i va habilitar ufw durant el pas de requisits previs, haurà d'executar el següent comando per a permetre a Webmin a través del firewall:
 sudo ufw allow 10000
 Per a major seguretat, és possible que desitgi configurar la seva firewall perquè permeti accés únicament a aquest port des d'uns certs intervals d'IP.
 ``
