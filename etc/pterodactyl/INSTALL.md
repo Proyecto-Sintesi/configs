@@ -47,12 +47,12 @@ Un cop fet tot això passarà començant amb la instal·lació, primer de tot ne
 Una cop fet això copiarem el nostre arxiu de configuració d'entorn predeterminat, instal·larem les dependències principals i, a continuació, generarem un arxiu Nova clau de xifratge d'aplicacions
 
 # Instal·lació
+Copiarem l'arxiu d'exemple de configuració i instal·larem el panell
 ```console
 sudo cp .env.example .env
 
 sudo composer install --no-dev --optimize-autoloader
 ```
-![image25](https://github.com/Proyecto-Sintesi/configs/assets/165918288/80557e08-7ab4-4855-a3ae-1f22b2001c10)
 
 ```console
 sudo php artisan key:generate --force
