@@ -1,5 +1,5 @@
 # Configuracions
-En aquest respositori estan emmagatzemades totes les configuracions dels serveis utilitzats, cada servei te el seu directori amb dos arxius esencials, `README.md` i `INSTALL.md`, l'arxiu README es la configuració explicada detalladament i INSTALL es un tutorial pas a pas de la instal·lació del servei.
+En aquest respositori estan emmagatzemades totes les configuracions dels serveis utilitzats, tots els serveis tenen la seva explicació i instal·lació a l'arxiu `README.md` i els més extensius tenen el seu propi arxiu d'instal·lació anomenat `INSTALL.md`, l'arxiu README es la configuració explicada detalladament i INSTALL es un tutorial pas a pas de la instal·lació del servei.
 
 # Serveis
 ## [💻 SSH](https://github.com/Proyecto-Sintesi/configs/tree/main/home/alex/.ssh)
