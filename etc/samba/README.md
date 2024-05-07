@@ -5,8 +5,13 @@
 ### Configuració global
 `bind interfaces only` especifica si s'hauria d'escoltar només a les interficies de xarxa especificades, en el nostre cas volem que es pugui accedir des de totes.
 
-`
-```toml
+`browseable` poder navegar dins dels directoris
+
+`read only` establit per poder llegir els arxius
+
+`force group` especifica que el group dels arxius sigui pterodactyl, per a que el panell pugui accedir als arxius
+
+```samba
 [global]
         bind interfaces only = no
         browseable = yes
@@ -14,7 +19,9 @@
         force group = pterodactyl
 ```
 
-```toml
+## Configuració dels recursos
+Cada reurs te especificat un directori i un administrador, cada administrador pot modificar al seu gust cada directori. Els administradors establits seran els clients de cada servidor.
+```samba
 [web]
         path = /var/lib/pterodactyl/volumes/133e7e88-823d-4e24-8a50-179a1cc333e1
         admin users = alex
