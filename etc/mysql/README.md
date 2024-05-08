@@ -20,47 +20,4 @@ MySQL és una opció popular com a sistema de gestió de bases de dades (SGBD) p
 ```
 MariaDB [panel]> SHOW TABLES;
 +-----------------------+
-| Tables_in_panel       |
-+-----------------------+
-| activity_log_subjects |
-| activity_logs         |
-| allocations           |
-| api_keys              |
-| api_logs              |
-| audit_logs            |
-| backups               |
-| database_hosts        |
-| databases             |
-| egg_mount             |
-| egg_variables         |
-| eggs                  |
-| failed_jobs           |
-| jobs                  |
-| locations             |
-| migrations            |
-| mount_node            |
-| mount_server          |
-| mounts                |
-| nests                 |
-| nodes                 |
-| notifications         |
-| password_resets       |
-| recovery_tokens       |
-| schedules             |
-| server_transfers      |
-| server_variables      |
-| servers               |
-| sessions              |
-| settings              |
-| subusers              |
-| tasks                 |
-| tasks_log             |
-| user_ssh_keys         |
-| users                 |
-+-----------------------+
-35 rows in set (0,000 sec)
-```
-
-La instal·lació es pot llegir aqui [INSTALL.md](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/mysql/INSTALL.md)
-
-<p><a href="">Servei anterior</a> - <a href="">Següent servei</a></p>
+| Tables_in_panel v 
