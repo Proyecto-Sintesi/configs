@@ -1,4 +1,7 @@
 # BIND9
+
+El Bind principalment és un sistema de servei DNS on nosaltres el fem servir per com traducció de IP en domini.
+
 ## Instal·lar
 ```console
 root@smix-ThinkPad-P1-Gen-5:/etc/nginx/sites-enabled# apt install bind9
