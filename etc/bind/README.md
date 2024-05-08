@@ -117,3 +117,8 @@ Els següents registres son subdominis per poder configurar el [reverse proxy d'
 
 ### Comprovació des de la web
 ![image](https://github.com/Proyecto-Sintesi/configs/assets/122394285/5e8ac630-61d7-4077-a535-baca2c3becf0)
+
+<div style="display: flex; justify-content: space-between;">
+     <p>Anterior</p>
+     <p>Següent</p>
+</div>
