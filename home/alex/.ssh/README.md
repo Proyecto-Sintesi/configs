@@ -76,3 +76,5 @@ chmod 600 ~/.ssh/authorized_keys
 
 Un cop importades ja podem iniciar sessió sense contrasenya
 ![image](https://github.com/Proyecto-Sintesi/configs/assets/122394285/8842b731-b9af-4677-8a0b-4052d89676da)
+
+<p><a href="https://github.com/Proyecto-Sintesi/configs/tree/main/etc/netdata">Servei anterior</a> - <a href="https://github.com/Proyecto-Sintesi/configs/tree/main/etc/vsftpd">Següent servei</a></p>
