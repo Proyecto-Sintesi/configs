@@ -14,4 +14,10 @@ sudo apt install tgt
 ls -l /dev/disk/by-id/
 ```
 
-Una vegada visualitzat la id del disc el que farem serà copiar-la perquè la necessitarem mes endavant.
+La comanda de abans el que fa és mostra les id dins de la carpetas disk. Una vegada visualitzat la id del disc el que farem serà copiar-la perquè la necessitarem mes endavant.
+
+Un cop fet farem:
+```
+sudo nano /etc/tgt//conf.d/linux.conf
+```
+Hi posarem el mateix que el arxiu de [configuració](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/iscsi/linux.conf)
