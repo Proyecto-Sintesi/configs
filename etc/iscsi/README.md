@@ -21,3 +21,13 @@ Un cop fet farem:
 sudo nano /etc/tgt//conf.d/linux.conf
 ```
 Hi posarem el mateix que el arxiu de [configuració](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/iscsi/linux.conf)
+
+Per acabar el que farem serà 
+```console
+sudo systemctl restart tgt
+```
+
+## Comprovació
+```console
+sudo tgtadm --op show --mode target
+``` 
