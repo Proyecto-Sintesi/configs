@@ -61,15 +61,15 @@ MariaDB [panel]> SHOW TABLES;
 35 rows in set (0,000 sec)
 ```
 
-- activity_log_subjects: Almacena información sobre los sujetos de los registros de actividad.
-- activity_logs: Registra actividades o eventos en el sistema.
-- allocations: Contiene detalles sobre asignaciones o distribuciones.
-- api_keys: Almacena claves de API utilizadas para autenticación.
-- backups: Guarda información relacionada con copias de seguridad.
-- databases: Contiene detalles sobre las bases de datos.
-- eggs: Almacena información sobre los tipos de aplicaciones o servicios disponibles.
-- servers: Registra detalles sobre los servidores o máquinas virtuales.
-- users: Contiene información sobre los usuarios del sistema.
+- activity_log_subjects: Emmagatzema informació sobre els subjectes dels registres d'activitat.
+- activity_logs: Registra activitats o esdeveniments en el sistema.
+- allocations: Conté detalls sobre assignacions o distribucions.
+- api_keys: Emmagatzema claus de API utilitzades per a autenticació.
+- backups: Guarda informació relacionada amb còpies de seguretat.
+- databases: Conté detalls sobre les bases de dades.
+- eggs: Emmagatzema informació sobre els tipus d'aplicacions o serveis disponibles.
+- servers: Registra detalls sobre els servidors o màquines virtuals.
+- users: Conté informació sobre els usuaris del sistema.
 
 
 La instal·lació es pot llegir aqui [INSTALL.md](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/mysql/INSTALL.md)
