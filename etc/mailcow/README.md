@@ -68,4 +68,5 @@ SOGo es el nostre panell de correu electrònic, on podem enviar i rebre correus 
 ![image](https://github.com/Proyecto-Sintesi/configs/assets/122394285/64190c0d-d245-47da-a983-cf559f519177)
 ![image](https://github.com/Proyecto-Sintesi/configs/assets/122394285/3ecae75e-81af-4952-a33d-559f6f0eb4c7)
 
+<p><a href="https://github.com/Proyecto-Sintesi/configs/tree/main/etc/pterodactyl">Servei anterior</a> - <a href="https://github.com/Proyecto-Sintesi/configs/tree/main/etc/samba">Següent servei</a></p>
 
