@@ -102,7 +102,7 @@ Els següents registres son subdominis per poder configurar el [reverse proxy d'
 
 `mail    IN      CNAME   virtualvista.com.` [[+](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/nginx/sites-enabled/mailcow.conf)]
 
-### Correu
+### [Correu](https://github.com/Proyecto-Sintesi/configs/tree/main/etc/mailcow)
 `autodiscover` i `autoconfig` son uns subdominis utlitzats per dispositius mòbils i thunderbird respectivament per configurar de maner rápida el seu client de correu.
 
 `autodiscover    IN      CNAME   mail.virtualvista.com.` especifica 
