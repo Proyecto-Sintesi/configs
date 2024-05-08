@@ -62,3 +62,5 @@ MariaDB [panel]> SHOW TABLES;
 ```
 
 La instal·lació es pot llegir aqui [INSTALL.md](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/mysql/INSTALL.md)
+
+<p><a href="">Servei anterior</a> - <a href="">Següent servei</a></p>
