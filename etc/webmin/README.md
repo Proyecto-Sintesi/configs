@@ -10,3 +10,6 @@ En compte d'agafar el Nagios el que hem fet és agafar el Webmin per variar un m
 ![image](https://github.com/Proyecto-Sintesi/configs/assets/165918288/abc948fa-92e9-4785-b53d-93967a52f281)
 
 La instal·lació es pot llegir aqui [INSTALL.md](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/webmin/INSTALL.md)
+
+
+<p><a href="https://github.com/Proyecto-Sintesi/configs/tree/main/etc/ufw">Servei anterior</a> - <a href="https://github.com/Proyecto-Sintesi/configs/tree/main/etc/netdata">Següent servei</a></p>
