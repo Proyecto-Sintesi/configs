@@ -20,4 +20,55 @@ MySQL és una opció popular com a sistema de gestió de bases de dades (SGBD) p
 ```
 MariaDB [panel]> SHOW TABLES;
 +-----------------------+
-| Tables_in_panel v 
+| Tables_in_panel       |
++-----------------------+
+| activity_log_subjects |
+| activity_logs         |
+| allocations           |
+| api_keys              |
+| api_logs              |
+| audit_logs            |
+| backups               |
+| database_hosts        |
+| databases             |
+| egg_mount             |
+| egg_variables         |
+| eggs                  |
+| failed_jobs           |
+| jobs                  |
+| locations             |
+| migrations            |
+| mount_node            |
+| mount_server          |
+| mounts                |
+| nests                 |
+| nodes                 |
+| notifications         |
+| password_resets       |
+| recovery_tokens       |
+| schedules             |
+| server_transfers      |
+| server_variables      |
+| servers               |
+| sessions              |
+| settings              |
+| subusers              |
+| tasks                 |
+| tasks_log             |
+| user_ssh_keys         |
+| users                 |
++-----------------------+
+35 rows in set (0,000 sec)
+```
+
+- activity_log_subjects: Almacena información sobre los sujetos de los registros de actividad.
+- activity_logs: Registra actividades o eventos en el sistema.
+- allocations: Contiene detalles sobre asignaciones o distribuciones.
+- api_keys: Almacena claves de API utilizadas para autenticación.
+- backups: Guarda información relacionada con copias de seguridad.
+- databases: Contiene detalles sobre las bases de datos.
+- eggs: Almacena información sobre los tipos de aplicaciones o servicios disponibles.
+- servers: Registra detalles sobre los servidores o máquinas virtuales.
+- users: Contiene información sobre los usuarios del sistema.
+- 
+La instal·lació es pot llegir aqui [INSTALL.md](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/mysql/INSTALL.md)
