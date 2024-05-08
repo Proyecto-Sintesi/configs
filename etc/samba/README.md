@@ -36,3 +36,6 @@ En la següent imatge es pot veure com está connectat els arxius del servidor d
 ![prova](https://github.com/Proyecto-Sintesi/configs/assets/122394285/d1f9a67b-afbe-4b4e-818d-766d5bdfecea)
 
 La instal·lació es pot llegir aqui [INSTALL.md](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/samba/INSTALL.md)
+
+
+<p><a href="https://github.com/Proyecto-Sintesi/configs/blob/main/etc/mailcow/README.md">Servei anterior</a> - <a href="https://github.com/Proyecto-Sintesi/configs/tree/main/etc/ufw">Següent servei</a></p>
