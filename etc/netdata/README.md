@@ -29,3 +29,5 @@ De normal el panell de NetData s'allotja als seus servidors privats, en el nostr
 ```
 
 La instal·lació es pot llegir aqui [INSTALL.md](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/netdata/INSTALL.md)
+
+<p><a href="https://github.com/Proyecto-Sintesi/configs/tree/main/etc/webmin">Servei anterior</a> - <a href="https://github.com/Proyecto-Sintesi/configs/tree/main/home/alex/.ssh">Següent servei</a></p>
