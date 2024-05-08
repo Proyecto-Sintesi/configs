@@ -22,6 +22,16 @@ sudo nano /etc/tgt//conf.d/linux.conf
 ```
 Hi posarem el mateix que el arxiu de [configuració](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/iscsi/linux.conf)
 
+El que posem exactament dins del arxiu de configuració és:
+
+<target iqn.2024-01.com.ethan:linux>: Això indica que estem definint un objectiu iSCSI amb un nom d'identificació únic (IQN) que segueix el patró iqn.2024-01.com.ethan:linux. El IQN és una forma estàndard d'identificar dispositius iSCSI en una xarxa.
+
+driver iscsi: Aquí s'especifica que el controlador utilitzat per a aquest objectiu és el controlador iSCSI.
+
+controller_tid 1: Això podria referir-se a l'identificador del controlador iSCSI. En aquest cas, s'estableix com 1.
+
+backing-store /dev/disk/by-id/ata-VBOX_HARDDISK_VB11081d05-d79f70e1: Aquesta línia indica la ubicació de l'emmagatzematge de suport (backing store) per a aquest objectiu iSCSI. En aquest cas, es refereix a un disc dur virtual amb una ruta específica.
+
 ## Comprovació
 
 Per acabar el que farem serà 
