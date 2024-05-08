@@ -6,7 +6,7 @@ En aquest respositori estan emmagatzemades totes les configuracions dels serveis
 - [🖋 README.md](https://github.com/Proyecto-Sintesi/configs/blob/main/home/alex/.ssh/README.md)
 ## [📚 VSFTPD](https://github.com/Proyecto-Sintesi/configs/tree/main/etc/vsftpd)
 - [🖋 README.md](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/vsftpd/README.md)
-## [📚 MYSQL](https://github.com/Proyecto-Sintesi/configs/tree/main/etc/mysql)
+## [📖 MYSQL](https://github.com/Proyecto-Sintesi/configs/tree/main/etc/mysql)
 - [🖋 README.md](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/mysql/README.md)
 - [🔧 INSTALL.md](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/mysql/INSTALL.md)
 ## [🕸 BIND](https://github.com/Proyecto-Sintesi/configs/tree/main/etc/bind)
