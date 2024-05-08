@@ -1,4 +1,6 @@
 # SSH
+Hem implementat el servei d'SSH per que creiem necessari poder accedir al servidor de forma remota i segura.
+
 ## Instal·lació
 ```console
 root@smix-ThinkPad-P1-Gen-5:/etc/nginx/sites-enabled# apt install openssh-server
