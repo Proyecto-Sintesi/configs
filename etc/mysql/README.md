@@ -73,3 +73,5 @@ MariaDB [panel]> SHOW TABLES;
 
 
 La instal·lació es pot llegir aqui [INSTALL.md](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/mysql/INSTALL.md)
+
+<p><a href="https://github.com/Proyecto-Sintesi/configs/tree/main/etc/vsftpd">Servei anterior</a> - <a href="https://github.com/Proyecto-Sintesi/configs/tree/main/etc/bind">Següent servei</a></p>
