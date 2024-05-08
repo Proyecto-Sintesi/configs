@@ -36,7 +36,7 @@ may 07 16:46:20 smix-ThinkPad-P1-Gen-5 named[1182]: validating unicons.iconscout
 ```
 
 ## named.conf.options
-`named.conf.options` ens serveix per configurar com actua el servei de BIND9
+`named.conf.options` ens serveix per configurar com actua el servei de [BIND9](https://github.com/Proyecto-Sintesi/configs/tree/main/etc/bind)
 
 `directory`: Estableix el directori on s'emmagatzemará la cache de bind, els registres creats, dominis registrats etc.
 
