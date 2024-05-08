@@ -27,3 +27,6 @@ El que posarem en aquesta apartat seràn els port que estem fent servint y que h
 - [DNS](https://github.com/Proyecto-Sintesi/configs/tree/main/etc/bind): Fem servir el nostre DNS. **Port Bind9/53**
 - [POSTFIX](https://github.com/Proyecto-Sintesi/configs/tree/main/etc/nginx/sites-enabled): El utilitzen per el nostre propi servidor de correu. **Port 587/465**
 - [SAMBA](https://github.com/Proyecto-Sintesi/configs/tree/main/etc/samba): El SAMBA del nostre servidor. **Port 445/137/138/139**
+
+
+<p><a href="https://github.com/Proyecto-Sintesi/configs/tree/main/etc/samba">Servei anterior</a> - <a href="https://github.com/Proyecto-Sintesi/configs/tree/main/etc/webmin">Següent servei</a></p>
