@@ -57,7 +57,7 @@ may 07 15:28:34 smix-ThinkPad-P1-Gen-5 systemd[1]: Started A high performance we
 ## Configuració Pterodactyl i Mailcow
 Les configuracions de Pterodactyl ens les proveixen ambes parts, es poden trobar a [Pterodactyl NGINX](https://pterodactyl.io/panel/0.7/webserver_configuration.html#nginx-without-ssl) i [Mailcow NGINX](https://docs.mailcow.email/post_installation/reverse-proxy/r_p-nginx/)
 
-## Configuracions página principal, NetData i Webmin
+## Configuracions página principal, [NetData[(https://github.com/Proyecto-Sintesi/configs/tree/main/etc/netdata) i [Webmin](https://github.com/Proyecto-Sintesi/configs/tree/main/etc/webmin)
 Per aquestes configuracions hem utilitzat el reverse proxy d'NGINX, totes les configuracions mencionades son identiques canviant el port i el nom de domini on NGINX escolta (explicat a sota).
 
 `server` indica una nova entrada de servidor
