@@ -14,7 +14,7 @@ En aquest respositori estan emmagatzemades totes les configuracions dels serveis
 - [🖋 README.md](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/pterodactyl/README.md)
 - [🔧 INSTALL.md](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/pterodactyl/INSTALL.md)
 ## [📨 MAILCOW](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/mailcow/README.md)
-  - [🖋](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/mailcow)
+  - [🖋 README.md](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/mailcow)
 ## [🚠 SAMBA](https://github.com/Proyecto-Sintesi/configs/tree/main/etc/samba)
 - [🖋 README.md](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/samba/README.md)
 - [🔧 INSTALL.md](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/samba/INSTALL.md) 
