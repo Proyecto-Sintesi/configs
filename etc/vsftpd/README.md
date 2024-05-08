@@ -17,3 +17,5 @@ Dins de l'arxiu el que modifiquem és que el nostre servidor pugui acceptar o re
 ![image29](https://github.com/Proyecto-Sintesi/configs/assets/165918288/08fa7af9-a278-4aa4-9fcd-e7931f798357)
 
 ![image](https://github.com/Proyecto-Sintesi/configs/assets/165918288/82c9567b-e2d9-4eac-a129-3d7148a0ff0c)
+
+<p><a href="https://github.com/Proyecto-Sintesi/configs/tree/main/home/alex/.ssh">Servei anterior</a> - <a href="https://github.com/Proyecto-Sintesi/configs/tree/main/etc/bind">Següent servei</a></p>
