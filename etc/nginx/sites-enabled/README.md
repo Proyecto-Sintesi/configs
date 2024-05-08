@@ -91,3 +91,5 @@ Les configuracions de NetData i Webmin son molt similars, es poden trobar a [Net
 ### Mail
 ![image](https://github.com/Proyecto-Sintesi/configs/assets/122394285/f8dc76c6-5898-4f74-9019-4cbeccd57ef1)
 
+
+<p><a href="https://github.com/Proyecto-Sintesi/configs/tree/main/etc/bind33">Servei anterior</a> - <a href="https://github.com/Proyecto-Sintesi/configs/tree/main/etc/pterodactyl">Següent servei</a></p>
