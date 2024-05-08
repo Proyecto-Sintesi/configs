@@ -70,5 +70,6 @@ MariaDB [panel]> SHOW TABLES;
 - eggs: Almacena información sobre los tipos de aplicaciones o servicios disponibles.
 - servers: Registra detalles sobre los servidores o máquinas virtuales.
 - users: Contiene información sobre los usuarios del sistema.
-- 
+
+
 La instal·lació es pot llegir aqui [INSTALL.md](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/mysql/INSTALL.md)
