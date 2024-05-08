@@ -32,3 +32,4 @@ sudo systemctl restart tgt
 ```console
 sudo tgtadm --op show --mode target
 ``` 
+![image3](https://github.com/Proyecto-Sintesi/configs/assets/165918288/98a8fe96-89da-4bd0-9302-8d155518592b)
