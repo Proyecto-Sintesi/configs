@@ -51,4 +51,4 @@ Set root password? [Y/n] N
 ```
 Des d'allí, pot prémer I i després ENTER per a acceptar els valors predeterminats per a totes les preguntes següents. Això eliminarà alguns usuaris anònims i la base de dades de prova, deshabilitarà els inicis de sessió root remots i carregarà aquestes noves regles.
 
-La instal·lació es pot llegir aqui [README.md](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/mysql/README.md)
+La configuració es pot llegir aqui [README.md](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/mysql/README.md)
