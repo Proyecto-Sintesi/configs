@@ -43,3 +43,15 @@ sudo systemctl restart tgt
 sudo tgtadm --op show --mode target
 ``` 
 ![image3](https://github.com/Proyecto-Sintesi/configs/assets/165918288/98a8fe96-89da-4bd0-9302-8d155518592b)
+
+## Conexió
+Un cop tinguem el iscsi fet farem conexió amb la maquina per poder conectar el disc compartit.
+
+```console
+sudo apt install open-iscsi
+```
+
+```console
+sudo nano /etc/iscsi/initiatorname.iscsi
+```
+En aquest arxiu el que farem serà configurar tal com en el següent [arxiu](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/iscsi/initiatorname.iscsi)
