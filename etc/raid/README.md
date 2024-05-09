@@ -38,3 +38,5 @@ sudo mount /dev/md1 RAID1/
 ## Demostració
 
 ![image17](https://github.com/Proyecto-Sintesi/configs/assets/165918288/80c3fc3f-60ff-4ca2-a8a5-2869dd776919)
+
+<p><a href="https://github.com/Proyecto-Sintesi/configs/tree/main/etc/iscsi">Servei anterior</a> - <a href="https://github.com/Proyecto-Sintesi/configs/blob/main/etc/rsync">Següent servei</a></p>
