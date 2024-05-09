@@ -30,4 +30,5 @@ Alhora del ordre dels serveis estan ordenats de la mateixa forma que surt en el 
 ## [📊 NETDATA](https://github.com/Proyecto-Sintesi/configs/tree/main/etc/netdata)
 - [🖋 README.md](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/webmin/README.md)
 - [🔧 INSTALL.md](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/netdata/INSTALL.md) 
-## [📦 ISCSI](https://github.com/Proyecto-Sintesi/configs/tree/main/home/alex/.ssh)
+## [📦 ISCSI](https://github.com/Proyecto-Sintesi/configs/tree/main/etc/iscsi)
+- [🖋 README.md](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/iscsi/README.md)
