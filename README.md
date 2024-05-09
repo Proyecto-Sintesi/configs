@@ -32,3 +32,7 @@ Alhora del ordre dels serveis estan ordenats de la mateixa forma que surt en el 
 - [🔧 INSTALL.md](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/netdata/INSTALL.md) 
 ## [📦 ISCSI](https://github.com/Proyecto-Sintesi/configs/tree/main/etc/iscsi)
 - [🖋 README.md](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/iscsi/README.md)
+## [🪞 RAID](https://github.com/Proyecto-Sintesi/configs/tree/main/etc/raid)
+- [🖋 README.md](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/raid/README.md)
+## [💂‍♂️ RSYNC](https://github.com/Proyecto-Sintesi/configs/tree/main/etc/rsync)
+- [🖋 README.md](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/rsync/README.md)
