@@ -73,3 +73,5 @@ Això per accedir al iscsi
 ## Demostració
 
 ![image34](https://github.com/Proyecto-Sintesi/configs/assets/165918288/27e15e7d-b9f4-4dcb-b635-4a0388827b33)
+
+<p><a href="https://github.com/Proyecto-Sintesi/configs/tree/main/etc/netdata">Servei anterior</a> - <a href="https://github.com/Proyecto-Sintesi/configs/tree/main/etc/raid">Següent servei</a></p>
