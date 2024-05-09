@@ -54,4 +54,22 @@ sudo apt install open-iscsi
 ```console
 sudo nano /etc/iscsi/initiatorname.iscsi
 ```
-En aquest arxiu el que farem serà configurar tal com en el següent [arxiu](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/iscsi/initiatorname.iscsi)
+En aquest arxiu el que farem serà configurar tal com en el següent [arxiu](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/iscsi/initiatorname.iscsi). Dins del arxiu el que configurem és el iqn per que la maquina el detecti.
+
+Per acabar posarem les següent comandes.
+
+```console
+sudo iscsiadm -m discovery -t st -p 192.168.56.108
+```
+
+Aixo per que reconeixi el iscsi.
+
+```console
+sudo iscsiadm -m node -T iqn.2023-05.com.kifarunix-demo:target00 -p 192.168.57.45 --login
+```
+
+Això per accedir al iscsi
+
+## Demostració
+
+![image34](https://github.com/Proyecto-Sintesi/configs/assets/165918288/27e15e7d-b9f4-4dcb-b635-4a0388827b33)
