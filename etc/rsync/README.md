@@ -21,3 +21,5 @@ Dàquesta forma tindriem feta la còpia de seguretat.
 ## Demostració
 
 ![image24](https://github.com/Proyecto-Sintesi/configs/assets/165918288/43f44d8d-ecf3-4be8-af27-b1765c0674bb)
+
+<p><a href="https://github.com/Proyecto-Sintesi/configs/tree/main/etc/raid">Servei anterior</a> - <a href="https://github.com/Proyecto-Sintesi/configs/tree/main/home/alex/.ssh">Següent servei</a></p>
