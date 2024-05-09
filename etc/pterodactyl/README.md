@@ -78,4 +78,4 @@ api:
 
 La instal·lació es pot llegir aqui [INSTALL.md](https://github.com/Proyecto-Sintesi/configs/blob/main/etc/pterodactyl/INSTALL.md)
 
-<p><a href="https://github.com/Proyecto-Sintesi/configs/tree/main/etc/nginx/sites-enabled">Servei anterior</a> - <a href="https://github.com/Proyecto-Sintesi/configs/blob/main/etc/mailcow/README.md">Següent servei</a></p>
+<p><a href="https://github.com/Proyecto-Sintesi/configs/tree/main/etc/nginx/sites-enabled">Servei anterior</a> - <a href="https://github.com/Proyecto-Sintesi/configs/blob/main/etc/mailcow">Següent servei</a></p>
