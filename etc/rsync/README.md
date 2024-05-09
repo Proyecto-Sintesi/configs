@@ -18,6 +18,22 @@ sudo rsync -a /var/lib/pterodactyl/volumenes smix@192.168.56.107:RAID1
 ```
 Dàquesta forma tindriem feta la còpia de seguretat.
 
+Alhora de fer-ho en una empresa el que millor va és que el fessim amb un cron. Per fer-ho el que farem serà el següent.
+
+```console
+00 12 * * * rsync -aAX --delete --exclude '*.Trash-1000' /source/ /backup/daily
+00 15 * * 5 rsync -aAX --delete --exclude '*.Trash-1000' /source/ /backup/weekly
+00 16 1 * * rsync -aAX --delete --exclude '*.Trash-1000' /source/ /backup/monthly_$(date +%Y%m%d)
+```
+És afegir aquestes comandes dins del directori /tmp/crontab.scXSm2/crontab
+
+- `m`  minute
+- `h`  hour
+- `dom`  day_of_month
+- `m`  month
+- `dow`  day_of_week
+- `command`  the command to execute
+  
 ## Demostració
 
 ![image24](https://github.com/Proyecto-Sintesi/configs/assets/165918288/43f44d8d-ecf3-4be8-af27-b1765c0674bb)
