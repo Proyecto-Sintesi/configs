@@ -195,3 +195,4 @@ Per instal·lar eggs externs es pot utilitzar l’eina d’importació.
 
 En aquest cas m’he descarregat el egg de python i l’he importat per poder executar la nostra página web.
 
+La configuració es pot llegir a [README.md](https://github.com/Proyecto-Sintesi/configs/tree/main/etc/pterodactyl)
