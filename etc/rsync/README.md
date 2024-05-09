@@ -14,7 +14,7 @@ ssh smix@192.168.56.106
 Un cop dins obrim el terminal y posem la següent comanda.
 
 ```console
-sudo rsync -a /dev/pterodactyl smix@192.168.56.107:RAID 1
+sudo rsync -a /var/lib/pterodactyl/volumenes smix@192.168.56.107:RAID 1
 ```
 Dàquesta forma tindriem feta la còpia de seguretat.
 
